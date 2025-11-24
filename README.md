@@ -2,12 +2,14 @@
 ## Connections 
 
 ```
-R307S Fingerprint Sensor ↔ ESP32
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-VCC (Red)     →  3.3V
-GND (Black)   →  GND
-TX (Green)    →  GPIO 16 (RX2)
-RX (White)    →  GPIO 17 (TX2)
+R307 Sensor → ESP32 DOIT DevKit V1
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+RED    → 5V (or 3.3V)
+BLACK  → GND
+YELLOW → GPIO 16 (RX2)
+GREEN  → GPIO 17 (TX2)
+BLUE   → Not connected
+WHITE  → Not connected
 ```
 
 ## Verification kosam
