@@ -10,7 +10,7 @@ TX (Green)    →  GPIO 16 (RX2)
 RX (White)    →  GPIO 17 (TX2)
 ```
 
-### Verification kosam
+## Verification kosam
 
 ```
 #include <Adafruit_Fingerprint.h>
