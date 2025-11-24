@@ -164,3 +164,14 @@ void scanBaudRates() {
   Serial.println("\n✗ No response at any baud rate - check power and wiring!");
 }
 ```
+
+
+
+
+# Execution commands
+
+```
+cd C:\Users\DELL\Desktop\fingerprint_blood_group_detection
+venv\Scripts\activate
+python python_ml\quick_demo_server.py
+```
