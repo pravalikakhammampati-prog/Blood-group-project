@@ -12,6 +12,15 @@ BLUE   → Not connected
 WHITE  → Not connected
 ```
 
+RED    → 5V (or 3.3V)
+BLACK  → GND
+YELLOW → GPIO 16 (RX2)
+GREEN  → GPIO 17 (TX2)
+BLUE   → 
+WHITE  → tx2
+
+
+
 ## Verification kosam
 
 ```
